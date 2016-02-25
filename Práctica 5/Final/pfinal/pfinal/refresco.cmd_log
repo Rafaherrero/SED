@@ -1,0 +1,4 @@
+vhdtdtfi -lib work refresco.vhd -prj pfinal -o refresco.spl -module refresco -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 refresco.spl C:/Users/Rafa/Desktop/pfinal/pfinal/refresco.sym 
+vhdtdtfi -prj pfinal -o C:/Users/Rafa/Desktop/pfinal/pfinal/refresco.vhi -module refresco -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work refresco.vhd 
+vhdtdtfi -prj pfinal -o C:/Users/Rafa/Desktop/pfinal/pfinal/refresco.vhi -module refresco -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work refresco.vhd 

@@ -1,0 +1,11 @@
+NET "bcd[0]" LOC = F12;
+NET "bcd[1]" LOC = G12;
+NET "bcd[2]" LOC = H14;
+NET "bcd[3]" LOC = H13;
+NET "led[0]" LOC = E14;
+NET "led[1]" LOC = G13;
+NET "led[2]" LOC = N15;
+NET "led[3]" LOC = P15;
+NET "led[4]" LOC = R16;
+NET "led[5]" LOC = F13;
+NET "led[6]" LOC = N16;

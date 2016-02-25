@@ -1,0 +1,1 @@
+vhdtdtfi -prj p4 -o E:/p4/decodificador.vhi -lib work "E:/p4/Practica 3/p3//decodificador.vhd" -module decodificador -template C:/Xilinx/12.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror 

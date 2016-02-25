@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Rafa/Desktop/pfinal/pfinal/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Rafa/Desktop/pfinal/pfinal/xst"
+elaborate
+-ifn ffD_reset.prj
+-ifmt mixed

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="pfinal.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="clkseg.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="clkseg.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="clkseg.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="clkseg.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="clkseg_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="clkseg_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="contador.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="contador.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="contador.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="contador.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contador.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="contador.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="contador.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="contador.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contador2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="contador2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="contador2.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contador2_vhdl.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="contador_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="contador_summary.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="contador_tb_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contador_tb_stx_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contador_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="contador_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="cronometro.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="cronometro.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="cronometro.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="cronometro.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="cronometro.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="cronometro.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cronometro.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="cronometro.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="cronometro.syr"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="cronometro.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="cronometro.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cronometro_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="cronometro_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="cronometro_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="cronometro_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="cronometro_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="cronometro_summary.html"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cronometro_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="cronometro_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="cronometro_tb_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cronometro_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="cronometro_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="decodificador.vhi"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="decodificador_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="demux.vhi"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ffD_reset.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ffD_reset.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ffD_reset.xst"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="ledbonito.vhi"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="multi.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="multi.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="multi.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="multi.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multi.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="multi.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="multi.syr"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="multi.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="multi.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="multi_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="multi_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multi_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="multi_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="multi_tb_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multi_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multi_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="multipeq_tb_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multipeq_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="multipequeno.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="multipequeno.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="multipequeno.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="multipequeno.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multipequeno.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="multipequeno.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="multipequeno.syr"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="multipequeno.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="multipequeno.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="multipequeno_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="multipequeno_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multipequeno_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multipequeno_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="refresco.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="refresco.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="refresco.vhi"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="refresco_tb_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="reloj_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sistema.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="sistema.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="sistema.xst"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1399846425" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1399846425">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399847682" xil_pn:in_ck="6041681869353099000" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1399847682">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="clkseg.vhd"/>
+      <outfile xil_pn:name="contador/contador.vhd"/>
+      <outfile xil_pn:name="contador_tb.vhd"/>
+      <outfile xil_pn:name="cronometro.vhd"/>
+      <outfile xil_pn:name="cronometro_tb.vhd"/>
+      <outfile xil_pn:name="decodificador.vhd"/>
+      <outfile xil_pn:name="demux.vhd"/>
+      <outfile xil_pn:name="descodificador/decodificador.vhd"/>
+      <outfile xil_pn:name="ledbonito.vhd"/>
+      <outfile xil_pn:name="multi.vhd"/>
+      <outfile xil_pn:name="multi_tb.vhd"/>
+      <outfile xil_pn:name="refresco.vhd"/>
+      <outfile xil_pn:name="refresco_tb.vhd"/>
+      <outfile xil_pn:name="reloj_tb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1399847589" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="1306180122023937139" xil_pn:start_ts="1399847589">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399847589" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-4996418377211266773" xil_pn:start_ts="1399847589">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399846425" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-3192942614463270725" xil_pn:start_ts="1399846425">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399847682" xil_pn:in_ck="6041681869353099000" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1399847682">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="clkseg.vhd"/>
+      <outfile xil_pn:name="contador/contador.vhd"/>
+      <outfile xil_pn:name="contador_tb.vhd"/>
+      <outfile xil_pn:name="cronometro.vhd"/>
+      <outfile xil_pn:name="cronometro_tb.vhd"/>
+      <outfile xil_pn:name="decodificador.vhd"/>
+      <outfile xil_pn:name="demux.vhd"/>
+      <outfile xil_pn:name="descodificador/decodificador.vhd"/>
+      <outfile xil_pn:name="ledbonito.vhd"/>
+      <outfile xil_pn:name="multi.vhd"/>
+      <outfile xil_pn:name="multi_tb.vhd"/>
+      <outfile xil_pn:name="refresco.vhd"/>
+      <outfile xil_pn:name="refresco_tb.vhd"/>
+      <outfile xil_pn:name="reloj_tb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1399847687" xil_pn:in_ck="6041681869353099000" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="739586020808154755" xil_pn:start_ts="1399847682">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="cronometro_tb_beh.prj"/>
+      <outfile xil_pn:name="cronometro_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1399847687" xil_pn:in_ck="2613816715821802009" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-9007816437711591376" xil_pn:start_ts="1399847687">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="cronometro_tb_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1398193267" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1398193267">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399822322" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="6206823248542851587" xil_pn:start_ts="1399822322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399822322" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-3192942614463270725" xil_pn:start_ts="1399822322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399822322" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1399822322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399822322" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="2865608504409722699" xil_pn:start_ts="1399822322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399822322" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1110319057727724918" xil_pn:start_ts="1399822322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399822322" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="5303690671053395781" xil_pn:start_ts="1399822322">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1399845394" xil_pn:in_ck="732595124323476827" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-5247153505478333371" xil_pn:start_ts="1399845385">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+      <outfile xil_pn:name=".lso"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="contador.ngr"/>
+      <outfile xil_pn:name="cronometro.lso"/>
+      <outfile xil_pn:name="cronometro.ngc"/>
+      <outfile xil_pn:name="cronometro.ngr"/>
+      <outfile xil_pn:name="cronometro.prj"/>
+      <outfile xil_pn:name="cronometro.stx"/>
+      <outfile xil_pn:name="cronometro.syr"/>
+      <outfile xil_pn:name="cronometro.xst"/>
+      <outfile xil_pn:name="cronometro_beh.prj"/>
+      <outfile xil_pn:name="cronometro_vhdl.prj"/>
+      <outfile xil_pn:name="cronometro_xst.xrpt"/>
+      <outfile xil_pn:name="multi.ngr"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1399415442" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="6833039766228095264" xil_pn:start_ts="1399415442">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>

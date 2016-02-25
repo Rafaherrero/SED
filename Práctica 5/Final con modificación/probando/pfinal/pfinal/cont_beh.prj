@@ -1,0 +1,4 @@
+vhdl work "contador/contador.vhd"
+vhdl work "clkseg.vhd"
+vhdl work "cronometro.vhd"
+vhdl work "cont.vhd"

@@ -1,0 +1,7 @@
+work	"clkseg.vhd"
+work	"contador/contador.vhd"
+work	"cronometro.vhd"
+work	"decodificador.vhd"
+work	"demux.vhd"
+work	"multi.vhd"
+work	"refresco.vhd"

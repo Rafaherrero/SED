@@ -1,0 +1,28 @@
+Command line:
+   cronometro_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62536
+
+Sun May 11 20:20:22 2014
+
+
+ Elaboration Time: 0.546875 sec
+
+ Current Memory Usage: 861.79 Meg
+
+ Total Signals          : 59
+ Total Nets             : 62
+ Total Signal Drivers   : 24
+ Total Blocks           : 12
+ Total Primitive Blocks : 10
+ Total Processes        : 13
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 564
+
+ Total Simulation Time: 612.031 sec
+
+ Current Memory Usage: 389.87 Meg
+
+Sun May 11 22:11:20 2014
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/cronometro_tb_isim_beh.exe" -prj "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/cronometro_tb_beh.prj" "work.cronometro_tb" 

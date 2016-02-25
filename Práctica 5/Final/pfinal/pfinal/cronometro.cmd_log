@@ -1,0 +1,17 @@
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-ft256-4 cronometro.ngc cronometro.ngd  
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+vhdtdtfi -prj pfinal -o C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.vhi -module cronometro -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work refresco.vhd -lib work multi.vhd -lib work contador/contador.vhd -lib work clkseg.vhd -lib work cronometro.vhd 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.syr" 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/Final/pfinal/pfinal/cronometro.xst" -ofn "C:/Users/Rafa/Desktop/Final/pfinal/pfinal/cronometro.syr" 

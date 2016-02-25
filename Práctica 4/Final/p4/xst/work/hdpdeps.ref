@@ -1,0 +1,20 @@
+V3 11
+FL C:/Users/Rafa/Desktop/p4/contador2.vhd 2014/04/09.19:30:33 P.20131013
+EN work/contador2 1397068700 FL C:/Users/Rafa/Desktop/p4/contador2.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador2/Behavioral 1397068701 \
+      FL C:/Users/Rafa/Desktop/p4/contador2.vhd EN work/contador2 1397068700
+FL "C:/Users/Rafa/Desktop/p4/Practica 3/p3/decodificador.vhd" 2014/03/19.19:54:14 P.20131013
+EN work/decodificador 1397068698 \
+      FL "C:/Users/Rafa/Desktop/p4/Practica 3/p3/decodificador.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/decodificador/Behavioral 1397068699 \
+      FL "C:/Users/Rafa/Desktop/p4/Practica 3/p3/decodificador.vhd" \
+      EN work/decodificador 1397068698
+FL C:/Users/Rafa/Desktop/p4/sistema.vhd 2014/04/09.19:17:16 P.20131013
+EN work/sistema 1397068702 FL C:/Users/Rafa/Desktop/p4/sistema.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sistema/Behavioral 1397068703 \
+      FL C:/Users/Rafa/Desktop/p4/sistema.vhd EN work/sistema 1397068702 \
+      CP decodificador CP contador2

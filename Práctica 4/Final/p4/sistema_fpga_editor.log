@@ -1,0 +1,37 @@
+#:C9     
+#Xilinx FPGA Editor Command Log File
+#Editor Version:
+#:V   NT M2.1 M.81d
+#Current Working Directory:
+#:D   E:\p4
+#Date/Time:
+#:T   Wed Apr 02 20:00:22 2014
+#------------------------------
+	#Reading sistema.ncd...
+	#Loading device for application Rf_Device from file '3s200.nph' in environment C:\Xilinx\12.4\ISE_DS\ISE\.
+	#   "sistema" is an NCD, version 3.2, device xc3s200, package ft256, speed -5
+	#Design creation date: 2014.04.02.18.58.24
+	#Building chip graphics...
+	#Loading speed info...
+	#1
+setattr main edit-mode no-logic-changes
+	#2
+unselect -all
+	#3
+select -k comp 'Inst_contador/unit_A/q'
+	#4
+unselect -all
+	#5
+unselect -all
+	#6
+unselect -all
+	#7
+select site 'SLICE_X22Y22'
+	#site "SLICE_X22Y22",  type = SLICEM  (RPM grid X36Y48)
+	#8
+unselect -all
+	#9
+select site 'SLICE_X22Y22'
+	#site "SLICE_X22Y22",  type = SLICEM  (RPM grid X36Y48)
+	#10
+post block

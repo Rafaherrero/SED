@@ -1,0 +1,2 @@
+vhdtdtfi -prj pfinal -o C:/Users/Rafa/Desktop/pfinal/pfinal/decodificador.vhi -module decodificador -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../../p3/decodificador.vhd 
+vhdtdtfi -prj pfinal -o C:/Users/Rafa/Desktop/pfinal/pfinal/decodificador.vhi -module decodificador -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work decodificador.vhd 

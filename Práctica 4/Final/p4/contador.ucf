@@ -1,0 +1,8 @@
+NET "ce" LOC = K13;
+NET "clk" LOC = L14;
+NET "count[0]" LOC = K12;
+NET "count[1]" LOC = P14;
+NET "count[2]" LOC = L12;
+NET "count[3]" LOC = N14;
+NET "reset" LOC = K14;
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Rafa/practica/funciones_tb_isim_beh.exe" -prj "C:/Users/Rafa/practica/funciones_tb_beh.prj" "work.funciones_tb" 

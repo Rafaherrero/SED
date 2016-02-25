@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/cronometro</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/cronometro.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/cronometro/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/cronometro.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/cronometro.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clkseg</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/clkseg.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/clkseg.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/clkseg/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/clkseg.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/clkseg.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/contador</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/contador/contador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/contador/contador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/contador/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/contador/contador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/contador/contador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decod</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/decodificador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/decodificador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decod/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/decodificador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/decodificador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/demux</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/demux.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/demux.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/demux/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/demux.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/demux.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/multi</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/multi.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/multi.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/multi/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/multi.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/multi.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/refresco</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/refresco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/refresco.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/refresco/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Rafa/Desktop/pfinal/pfinal/refresco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/refresco.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/Rafa/Desktop/Final/pfinal/pfinal/clkseg.vhd</arg>&quot; line <arg fmt="%d" index="2">50</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;temp&gt;, &lt;temp_refr&gt;</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">apocalipsis</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">reinicio</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">cerocero</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

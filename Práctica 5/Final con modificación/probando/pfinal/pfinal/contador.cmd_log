@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/contador.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/contador.syr" 

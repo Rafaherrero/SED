@@ -1,0 +1,3 @@
+vhdl work "Practica 3/p3/decodificador.vhd"
+vhdl work "contador2.vhd"
+vhdl work "sistema.vhd"

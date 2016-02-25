@@ -1,0 +1,6 @@
+V3 3
+FL C:/p3/p3/decodificador.vhd 2014/03/19.19:54:13 M.81d
+EN work/decodificador 1395258855 FL C:/p3/p3/decodificador.vhd \
+      PB ieee/std_logic_1164 1290154108
+AR work/decodificador/Behavioral 1395258856 \
+      FL C:/p3/p3/decodificador.vhd EN work/decodificador 1395258855

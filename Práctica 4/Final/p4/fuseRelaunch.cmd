@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Rafa/Desktop/p4/contador_tb_isim_beh.exe" -prj "C:/Users/Rafa/Desktop/p4/contador_tb_beh.prj" "work.contador_tb" 

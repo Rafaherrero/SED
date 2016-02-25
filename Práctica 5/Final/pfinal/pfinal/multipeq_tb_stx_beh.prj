@@ -1,0 +1,2 @@
+vhdl isim_temp "multipequeno.vhd"
+vhdl isim_temp "multipeq_tb.vhd"

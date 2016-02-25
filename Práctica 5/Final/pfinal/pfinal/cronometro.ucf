@@ -1,0 +1,13 @@
+NET "clk" LOC = L14;
+NET "reset" LOC = K14;
+NET "sd[0]" LOC = E14;
+NET "sd[1]" LOC = G13;
+NET "sd[2]" LOC = N15;
+NET "sd[3]" LOC = P15;
+NET "sd[4]" LOC = R16;
+NET "sd[5]" LOC = F13;
+NET "sd[6]" LOC = N16;
+NET "an0" LOC = D14;
+NET "an1" LOC = G14;
+NET "an2" LOC = F14;
+NET "an3" LOC = E13;

@@ -1,0 +1,5 @@
+[Inputs]
+relojito
+[Outputs]
+=thor[1:0]=
+[BiDir]

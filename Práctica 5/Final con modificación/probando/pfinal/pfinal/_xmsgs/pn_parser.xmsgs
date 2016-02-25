@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/clkseg.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/contador/contador.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/cronometro.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/decodificador.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/demux.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/ledbonito.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/multi.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Dropbox/1º Ingeniería Informática/2º Cuatrimestre/Electrónica/Prácticas/Práctica 5/Final con modificación/probando/pfinal/pfinal/refresco.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

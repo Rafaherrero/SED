@@ -1,0 +1,8 @@
+Release 12.4 Drc M.81d (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Wed Mar 19 19:55:21 2014
+
+drc -z decodificador.ncd decodificador.pcf
+
+DRC detected 0 errors and 0 warnings.

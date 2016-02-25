@@ -1,0 +1,35 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Rafa/Desktop/probando/pfinal/pfinal/cronometro_tb_isim_beh.exe -prj C:/Users/Rafa/Desktop/probando/pfinal/pfinal/cronometro_tb_beh.prj work.cronometro_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/refresco.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/multi.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/ledbonito.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/demux.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/decodificador.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/contador/contador.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/clkseg.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/cronometro.vhd" into library work
+Parsing VHDL file "C:/Users/Rafa/Desktop/probando/pfinal/pfinal/cronometro_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity clkseg [clkseg_default]
+Compiling architecture behavioral of entity contador [contador_default]
+Compiling architecture behavioral of entity multi [multi_default]
+Compiling architecture behavioral of entity refresco [refresco_default]
+Compiling architecture behavioral of entity decod [decod_default]
+Compiling architecture behavioral of entity demux [demux_default]
+Compiling architecture behavioral of entity ledbonito [ledbonito_default]
+Compiling architecture behavioral of entity cronometro [cronometro_default]
+Compiling architecture behavior of entity cronometro_tb
+Time Resolution for simulation is 1ps.
+Compiled 22 VHDL Units
+Built simulation executable C:/Users/Rafa/Desktop/probando/pfinal/pfinal/cronometro_tb_isim_beh.exe
+Fuse Memory Usage: 35252 KB
+Fuse CPU Usage: 686 ms

@@ -1,0 +1,7 @@
+[Inputs]
+clk
+reset
+ce
+[Outputs]
+=count[3:0]=
+[BiDir]

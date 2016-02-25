@@ -1,0 +1,1 @@
+vhdtdtfi -prj p4 -o E:/p4/ffD_reset.vhi -lib work E:/p4//ffD_reset.vhd -module ffD_reset -template C:/Xilinx/12.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\p3\p3\decodificador.ncd
+OUTFILE=C:\p3\p3\decodificador.bit
+FAMILY=Spartan3
+PART=xc3s200-5ft256
+WORKINGDIR=C:\p3\p3
+LICENSE=WebPack
+USER_INFO=174128351_0_878

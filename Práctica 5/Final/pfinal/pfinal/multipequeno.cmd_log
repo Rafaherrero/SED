@@ -1,0 +1,3 @@
+vhdtdtfi -prj pfinal -o C:/Users/Rafa/Desktop/pfinal/pfinal/multipequeno.vhi -module multipequeno -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work multipequeno.vhd 
+vhdtdtfi -prj pfinal -o C:/Users/Rafa/Desktop/pfinal/pfinal/multipequeno.vhi -module multipequeno -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work multipequeno.vhd 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/pfinal/pfinal/multipequeno.xst" -ofn "C:/Users/Rafa/Desktop/pfinal/pfinal/multipequeno.syr" 

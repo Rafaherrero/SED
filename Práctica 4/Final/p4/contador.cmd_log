@@ -1,0 +1,9 @@
+vhdtdtfi -lib work contador.vhd -prj p4 -o contador.spl -module contador -template C:/Xilinx/12.4/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 contador.spl E:/p4/contador.sym 
+xst -intstyle ise -ifn "E:/p4/contador.xst" -ofn "E:/p4/contador.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contador.ucf -p xc3s200-ft256-5 contador.ngc contador.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o contador_map.ncd contador.ngd contador.pcf 
+par -w -intstyle ise -ol high -t 1 contador_map.ncd contador.ncd contador.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml contador.twx contador.ncd -o contador.twr contador.pcf -ucf contador.ucf 
+bitgen -intstyle ise -f contador.ut contador.ncd 
+vhdtdtfi -prj p4 -o E:/p4/contador.vhi -lib work E:/p4//contador.vhd -module contador -template C:/Xilinx/12.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror 

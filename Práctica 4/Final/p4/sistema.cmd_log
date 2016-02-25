@@ -1,0 +1,16 @@
+xst -intstyle ise -ifn "E:/p4/sistema.xst" -ofn "E:/p4/sistema.syr" 
+xst -intstyle ise -ifn "E:/p4/sistema.xst" -ofn "E:/p4/sistema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc sistema.ucf -p xc3s200-ft256-5 sistema.ngc sistema.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc sistema.ucf -p xc3s200-ft256-5 sistema.ngc sistema.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc sistema.ucf -p xc3s200-ft256-5 sistema.ngc sistema.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc sistema.ucf -p xc3s200-ft256-5 sistema.ngc sistema.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o sistema_map.ncd sistema.ngd sistema.pcf 
+par -w -intstyle ise -ol high -t 1 sistema_map.ncd sistema.ncd sistema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml sistema.twx sistema.ncd -o sistema.twr sistema.pcf -ucf sistema.ucf 
+bitgen -intstyle ise -f sistema.ut sistema.ncd 
+xst -intstyle ise -ifn "C:/Users/Rafa/Desktop/p4/sistema.xst" -ofn "C:/Users/Rafa/Desktop/p4/sistema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc sistema.ucf -p xc3s200-ft256-5 sistema.ngc sistema.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o sistema_map.ncd sistema.ngd sistema.pcf 
+par -w -intstyle ise -ol high -t 1 sistema_map.ncd sistema.ncd sistema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml sistema.twx sistema.ncd -o sistema.twr sistema.pcf -ucf sistema.ucf 
+bitgen -intstyle ise -f sistema.ut sistema.ncd 

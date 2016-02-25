@@ -1,0 +1,21 @@
+Running: C:\Xilinx\12.4\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/p3/p3/decodificador_tb_isim_beh.exe -prj C:/p3/p3/decodificador_tb_beh.prj work.decodificador_tb 
+ISim M.81d (signature 0xcb73ee62)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/p3/p3/decodificador.vhd" into library work
+Parsing VHDL file "C:/p3/p3/decodificador_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95820 KB
+Fuse CPU Usage: 155 ms
+Using precompiled package standard from library std
+Using precompiled package std_logic_1164 from library ieee
+Compiling architecture behavioral of entity decodificador [decodificador_default]
+Compiling architecture behavior of entity decodificador_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable C:/p3/p3/decodificador_tb_isim_beh.exe
+Fuse Memory Usage: 101564 KB
+Fuse CPU Usage: 202 ms

@@ -1,0 +1,3 @@
+vhdl work "descodificador/decodificador.vhd"
+vhdl work "contador/contador2.vhd"
+vhdl work "contador/sistema.vhd"
